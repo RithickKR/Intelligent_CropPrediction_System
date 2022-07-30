@@ -11,6 +11,10 @@ We propose an Intelligent Crop Recommendation system using Machine Learning that
 ([Twitter](https://twitter.com/ashwanth_01)) 
 ([Instagram](https://www.instagram.com/ashwanth__07/?hl=en))<br/>
 
+[RITHICK K R](https://github.com/RithickKR) <br/>
+([Twitter](https://twitter.com/widelyshut)) 
+([Instagram](https://www.instagram.com/suvanesh_thiagarajan/?hl=en)) <br/>
+
  [D T SUVANESH]() <br/>
 ([Twitter](https://twitter.com/suvanatr)) 
 ([Instagram](https://www.instagram.com/suvanesh_thiagarajan/?hl=en)) <br/>
